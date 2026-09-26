@@ -1,4 +1,4 @@
-[Silicate-Logo](https://raw.githubusercontent.com/T1fyOwO/Silicate/refs/heads/main/logo.png)
+![Silicate-Logo](https://raw.githubusercontent.com/T1fyOwO/Silicate/refs/heads/main/logo.png)
 
 # Silicate
 
