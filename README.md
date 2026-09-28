@@ -12,7 +12,6 @@ Silicate is a Geometry Dash bot focused on gameplay assistance, replay tools, tr
 | --- | --- | --- |
 | Windows x64 | 2.2081 | 🟡 Porting |
 | Android64 | 2.2081 | 🟡 Porting |
-| Android32 | 2.2081 | 🟡 Porting |
 
 Silicate targets **Geode 5.10.1** and is being prepared for automated builds through **GitHub Actions**.
 
